@@ -1,0 +1,22 @@
+{
+  "name": "siap",
+  "version": "1.0.0",
+  "description": "mantap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "febfeb",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febrianfeliano/056.git"
+  },
+  "bugs": {
+    "url": "https://github.com/febrianfeliano/056/issues"
+  },
+  "homepage": "https://github.com/febrianfeliano/056#readme",
+  "keywords": [
+    "aw"
+  ]
+}
